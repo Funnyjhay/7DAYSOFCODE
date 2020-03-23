@@ -168,3 +168,18 @@ p {
     background-color: rgba(32, 4, 109, 0.521);
     padding: 5px;
 }
+
+.small-box {
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 30px;
+    position: relative;
+    border: 5px solid white;
+    box-sizing: border-box;
+}
+
+.a-list {
+    margin-left: 30px;
+    padding: 2px;
+    list-style: square;
+}
